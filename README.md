@@ -6,8 +6,6 @@
 
 > **Public product showcase.** KozMap is a privately developed cybersecurity platform. This repository presents the product, its architecture, and its engineering principles. The production implementation remains private.
 
-### ▶ [Watch the live map demo](https://github.com/JD-Vellino/kozmap-cybersecurity-platform/blob/main/assets/kozmap-main-page.mp4?raw=1)
-
 ## What is KozMap?
 
 KozMap is a cybersecurity platform built to turn fragmented telemetry into a coherent, persistent model of an environment.
