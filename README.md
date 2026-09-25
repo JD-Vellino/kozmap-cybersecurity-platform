@@ -1,5 +1,6 @@
+
 # KozMap — Cybersecurity Platform
-[kozmap](https://github.com/user-attachments/assets/6ce01b2c-8d0e-40c3-8ae0-30db3cd405ab)
+[Kozmap demo.webm](https://github.com/user-attachments/assets/7dc8c3d5-be1c-4039-ba94-6f4f33c611d4)
 
 
 **Deterministic security state · Evidence-bound AI investigation · Spatial security operations**
