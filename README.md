@@ -1,10 +1,11 @@
+[Screencast from 2026-09-25 13-52-24.webm](https://github.com/user-attachments/assets/6ce01b2c-8d0e-40c3-8ae0-30db3cd405ab)
 # KozMap — Cybersecurity Platform
 
 **Deterministic security state · Evidence-bound AI investigation · Spatial security operations**
 
 **kozmap.ch**
-<img width="1713" height="1326" alt="image" src="h
-ttps://github.com/user-attachments/assets/206fc794-8723-4c33-8623-819ae925ab2b" />
+
+
 
 > **Public product showcase.** KozMap is a privately developed cybersecurity platform. This repository presents the product, its architecture, and its engineering principles. The production implementation remains private.
 
