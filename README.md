@@ -3,7 +3,8 @@
 **Deterministic security state · Evidence-bound AI investigation · Spatial security operations**
 
 **kozmap.ch**
-<img width="1713" height="1326" alt="image" src="https://github.com/user-attachments/assets/206fc794-8723-4c33-8623-819ae925ab2b" />
+<img width="1713" height="1326" alt="image" src="h
+ttps://github.com/user-attachments/assets/206fc794-8723-4c33-8623-819ae925ab2b" />
 
 > **Public product showcase.** KozMap is a privately developed cybersecurity platform. This repository presents the product, its architecture, and its engineering principles. The production implementation remains private.
 
