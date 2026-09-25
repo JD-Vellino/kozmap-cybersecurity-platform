@@ -1,4 +1,4 @@
-# KozMap — Cybersecurity Platform
+# KozMap — Cybersecurity Platform - kozmap.ch
 
 **Deterministic security state. Evidence-bound AI investigation. A live model of the environment.**
 
