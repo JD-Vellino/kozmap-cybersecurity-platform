@@ -1,9 +1,10 @@
-[Screencast from 2026-09-25 13-52-24.webm](https://github.com/user-attachments/assets/6ce01b2c-8d0e-40c3-8ae0-30db3cd405ab)
 # KozMap — Cybersecurity Platform
+[Screencast from 2026-09-25 13-52-24.webm](https://github.com/user-attachments/assets/6ce01b2c-8d0e-40c3-8ae0-30db3cd405ab)
+
 
 **Deterministic security state · Evidence-bound AI investigation · Spatial security operations**
 
-**kozmap.ch**
+[**kozmap.ch**](https://kozmap.ch)
 
 
 
