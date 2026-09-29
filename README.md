@@ -1,4 +1,3 @@
-
 # KozMap — Cybersecurity Platform
 [Kozmap demo.webm](https://github.com/user-attachments/assets/7dc8c3d5-be1c-4039-ba94-6f4f33c611d4)
 
@@ -126,6 +125,22 @@ Important lifecycle and state transitions are designed to remain traceable and r
 
 **Replaceable AI.**  
 The reasoning layer can evolve without becoming the authority for security state.
+
+## Product ownership & delivery
+
+KozMap development is managed through a living engineering ledger that turns architecture reviews, security findings, UX evaluation, technical debt, lifecycle work, and product decisions into explicitly managed work.
+
+The delivery model separates **severity** from **priority**, keeps **verification** distinct from confirmed implementation work, groups related work into delivery tranches, and treats **acceptance** as a separate step from simply writing code.
+
+<p align="center">
+  <img src="assets/product-delivery-overview.svg" alt="KozMap product delivery and engineering ledger overview" width="100%">
+</p>
+
+> The percentage shown in the tracker is the share of ledger items formally closed. It is **not** intended to represent overall product completion; the tracked backlog grows as reviews convert previously implicit risk into explicit work.
+
+The prioritisation principle is straightforward: **correctness, security, and product-blocking lifecycle risks come before maintainability and cosmetic improvement.** Findings that still require evidence or root-cause verification remain visibly separate from confirmed backlog work.
+
+For the delivery model, prioritisation logic, acceptance flow, and a sanitized example of tranche sequencing, see **[Product Ownership & Delivery](docs/PRODUCT_DELIVERY.md)**.
 
 ## Public / private boundary
 
