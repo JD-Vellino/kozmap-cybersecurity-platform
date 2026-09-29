@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#181a1b"/>
+<text x="28" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#f2f2f2">KozMap · Product delivery overview</text>
+<text x="28" y="68" font-family="Arial,sans-serif" font-size="14" fill="#b7b7b7">Public-safe view of the engineering ledger · detailed internal findings omitted</text>
+<text x="28" y="142" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#f2f2f2">11%</text>
+<text x="28" y="168" font-family="Arial,sans-serif" font-size="16" fill="#b7b7b7">formally closed</text>
+<text x="190" y="142" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#f2f2f2">41</text>
+<text x="190" y="168" font-family="Arial,sans-serif" font-size="16" fill="#b7b7b7">still open</text>
+<text x="310" y="142" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#f2f2f2">46</text>
+<text x="310" y="168" font-family="Arial,sans-serif" font-size="16" fill="#b7b7b7">tracked items</text>
+<rect x="28" y="205" width="220" height="100" rx="10" fill="#202223" stroke="#3a3d3f"/>
+<text x="48" y="250" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#f2f2f2">5</text>
+<rect x="48" y="270" width="12" height="12" rx="3" fill="#36a927"/>
+<text x="70" y="281" font-family="Arial,sans-serif" font-size="16" fill="#b7b7b7">Closed</text>
+<rect x="262" y="205" width="220" height="100" rx="10" fill="#202223" stroke="#3a3d3f"/>
+<text x="282" y="250" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#f2f2f2">1</text>
+<rect x="282" y="270" width="12" height="12" rx="3" fill="#347fd1"/>
+<text x="304" y="281" font-family="Arial,sans-serif" font-size="16" fill="#b7b7b7">In progress</text>
+<rect x="496" y="205" width="220" height="100" rx="10" fill="#202223" stroke="#3a3d3f"/>
+<text x="516" y="250" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#f2f2f2">7</text>
+<rect x="516" y="270" width="12" height="12" rx="3" fill="#eead22"/>
+<text x="538" y="281" font-family="Arial,sans-serif" font-size="16" fill="#b7b7b7">Verify / fix</text>
+<rect x="730" y="205" width="220" height="100" rx="10" fill="#202223" stroke="#3a3d3f"/>
+<text x="750" y="250" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#f2f2f2">33</text>
+<rect x="750" y="270" width="12" height="12" rx="3" fill="#898a86"/>
+<text x="772" y="281" font-family="Arial,sans-serif" font-size="16" fill="#b7b7b7">Backlog</text>
+<rect x="28" y="330" width="930" height="20" rx="6" fill="#898a86"/>
+<rect x="28" y="330" width="101" height="20" rx="6" fill="#36a927"/>
+<rect x="129" y="330" width="20" height="20" fill="#347fd1"/>
+<rect x="149" y="330" width="141" height="20" fill="#eead22"/>
+<text x="28" y="405" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#f2f2f2">By delivery section</text>
+<text x="28" y="447" font-family="Arial,sans-serif" font-size="16" fill="#f2f2f2">Detection / reasoning</text><rect x="360" y="430" width="610" height="22" rx="6" fill="#36a927"/><text x="1000" y="447" font-family="Arial,sans-serif" font-size="14" fill="#b7b7b7">1 / 1 closed</text>
+<text x="28" y="492" font-family="Arial,sans-serif" font-size="16" fill="#f2f2f2">Packaging / lifecycle</text><rect x="360" y="475" width="610" height="22" rx="6" fill="#898a86"/><rect x="360" y="475" width="407" height="22" rx="6" fill="#36a927"/><rect x="767" y="475" width="203" height="22" fill="#347fd1"/><text x="1000" y="492" font-family="Arial,sans-serif" font-size="14" fill="#b7b7b7">2 closed · 1 active</text>
+<text x="28" y="537" font-family="Arial,sans-serif" font-size="16" fill="#f2f2f2">Intelligence architecture</text><rect x="360" y="520" width="610" height="22" rx="6" fill="#36a927"/><text x="1000" y="537" font-family="Arial,sans-serif" font-size="14" fill="#b7b7b7">decision closed</text>
+<text x="28" y="582" font-family="Arial,sans-serif" font-size="16" fill="#f2f2f2">Productization review</text><rect x="360" y="565" width="610" height="22" rx="6" fill="#898a86"/><rect x="360" y="565" width="32" height="22" rx="6" fill="#36a927"/><rect x="392" y="565" width="32" height="22" fill="#eead22"/><text x="1000" y="582" font-family="Arial,sans-serif" font-size="14" fill="#b7b7b7">active backlog</text>
+<text x="28" y="627" font-family="Arial,sans-serif" font-size="16" fill="#f2f2f2">Three-angle QC</text><rect x="360" y="610" width="610" height="22" rx="6" fill="#898a86"/><rect x="360" y="610" width="47" height="22" rx="6" fill="#eead22"/><text x="1000" y="627" font-family="Arial,sans-serif" font-size="14" fill="#b7b7b7">verification + backlog</text>
+<text x="28" y="672" font-family="Arial,sans-serif" font-size="16" fill="#f2f2f2">External UI QC</text><rect x="360" y="655" width="610" height="22" rx="6" fill="#898a86"/><rect x="360" y="655" width="381" height="22" rx="6" fill="#eead22"/><text x="1000" y="672" font-family="Arial,sans-serif" font-size="14" fill="#b7b7b7">verification-heavy</text>
+<text x="28" y="708" font-family="Arial,sans-serif" font-size="14" fill="#b7b7b7">Formal closure is not the same as overall product completion; reviews can increase the tracked backlog by turning unknown risk into explicit work.</text>
+</svg>
